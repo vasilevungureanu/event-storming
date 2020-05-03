@@ -8,7 +8,12 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
 * ["Introducing Event Storming" book](https://leanpub.com/introducing_eventstorming)
+
+### To master, continue with
+
 * ["Event Storming by Alberto Brandolini" chapter from "Agile Technical Practices Distilled" book](https://www.goodreads.com/book/show/41758433-agile-technical-practices-distilled?ac=1&from_search=true&qid=AgCwcBb8Pf&rank=2)
 * [100,000 Orange Stickies Later](https://www.youtube.com/watch?v=fGm62ra_mQ8&feature=youtu.be)
 * [The Power of Event Storming](https://www.youtube.com/watch?v=mmuhpnsVftI)
