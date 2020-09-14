@@ -21,6 +21,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Remote Event Storming](https://blog.avanscoperta.it/it/2020/03/26/remote-eventstorming/)
 * [Event Storming in COVID-19 times](https://blog.avanscoperta.it/it/2020/03/26/eventstorming-in-covid-19-times/)
 * [21 More Event Storming Tips](https://philippe.bourgau.net/categories/#more-event-storming-tips-series)
+* [Daily routine in an EventStorming context](https://medium.com/@zsofideaz/daily-routine-in-an-eventstorming-context-a541f3a25a8d)
 
 ## Usage
 
